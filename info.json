@@ -1,6 +1,6 @@
 // info country 
-Vietnam = {"id":" "cities":["Hanoi", "Ho Chi Minh City", "Hue", "Da Nang", "Ha Long"], "people":["Duy", "Tuong", "Giang", "Nam","My"]};
-{"profiles" 
+Vietnam = {"id":"01", "cities":["Hanoi", "Ho Chi Minh City", "Hue", "Da Nang", "Ha Long"], "people":["Duy", "Tuong", "Giang", "Nam","My"]};
+{"profiles": 
      {    
      "firstName": "John",
      "lastName": "Smith",
