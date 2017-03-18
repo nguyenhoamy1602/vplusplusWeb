@@ -1,2 +1,2 @@
 // info country 
-Vietnam = { "cities":["Hanoi", "Ho Chi Minh City", "Hue", "Da Nang", "Ha Long"], "people":['Duy', 'Tuong', 'Giang', 'Nam','My']};
+Vietnam = { "cities":["Hanoi", "Ho Chi Minh City", "Hue", "Da Nang", "Ha Long"], "people":["Duy", 'Tuong', 'Giang', 'Nam','My']};
